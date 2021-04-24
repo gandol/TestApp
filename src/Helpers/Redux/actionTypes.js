@@ -1,0 +1,1 @@
+export const GANTI_LITS="GANTI_LIST"
